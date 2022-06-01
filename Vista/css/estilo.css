@@ -1,0 +1,110 @@
+body{
+  background-color: #f6fdf5;
+  /*background: url(../img/muje);*/
+
+}
+
+header{
+	/*background: url(./img/hecho.pn);*/
+	background-attachment: contain;
+	background-size: cover;
+	background-position: center;
+}
+
+.cabeza{
+	background-color: #65b37b;
+}
+
+.sesion{ 
+
+		background-color:#65b37b;
+ }
+
+.pie{
+	background-color: #65b37b;
+}
+
+.casilla{
+	background-color:#65b37b;
+	color: #ffffff;
+}
+
+.borderBoton{
+	border: 1px solid #000000;
+}
+
+.blanco{
+
+	border-bottom: solid 2px #fff;
+}
+
+.imgHeader{
+	height: 60px;
+}
+
+.imgHeade{
+	height: 60px;
+	width: 100%;
+}
+
+nav a{
+	color: #fff;
+}
+
+
+nav a:hover{
+	color: #fff;
+}
+
+ fieldset{ 
+
+ 	font-weight: bold;
+ } 
+
+.borde{
+
+	border: 10px solid blue;
+	/*border-radius: 25px;
+	/*background-color: green;
+	color: #fff;*/
+}
+
+details summary{
+	color: #fff;
+}
+
+/* estilo para la pagina ministerio.php*/
+.subti{
+	border-bottom: 4px solid #41B460;
+}
+
+.linkr{
+
+	color: #000;
+}
+/*fin estilo para la pagina ministerio.php*/
+
+/*estilos de los iconos*/
+.iconos{
+
+	width: 60px;
+	height: 60px;
+}
+
+.lupa{
+
+	width: 40px;
+	height: 40px;
+}
+
+.lupa:hover{
+
+	background-color: #DC3545;
+}
+
+.icono2{
+
+	width: 30px;
+	height: 30px;
+}
+
